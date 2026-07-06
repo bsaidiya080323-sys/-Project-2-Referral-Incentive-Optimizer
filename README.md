@@ -107,23 +107,6 @@ This project was built with AI assistance in the following ways:
 **All core logic, mathematical models, and design decisions were developed independently.**
 
 ---
-
-## 🖼️ Screenshots
-
-### 1. Main Interface
-![Main](screenshots/main.png)
-*Main interface with input parameters and results*
-
-### 2. Profit Chart
-![Chart](screenshots/chart.png)
-*Visual analysis of profit vs reward amount*
-
-### 3. Structure Comparison
-![Comparison](screenshots/comparison.png)
-*Comparing different incentive structures*
-
----
-
 ## 📊 Algorithms Implemented
 
 | Algorithm | Purpose | Type |
